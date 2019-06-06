@@ -1,0 +1,18 @@
+# Got from gist.github.com/davidfowl/ed7564297c61fe9ab814
+
+# IDE
+.vscode
+.idea
+_ReSharper.*
+
+# Folders
+[Oo]bj/
+[Bb]in/
+[Pp]ackages/
+[Aa]rtifacts/
+.nuget/
+*.user
+*.suo
+*.serprefs
+*DS_Store
+*.sln.ide
